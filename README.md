@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Developer : <a href="https://www.linkedin.com/in/sabahazmi" alt="Sabah Azmi">Sabah Azmi</a>
+## Developer : <a href="https://www.linkedin.com/in/sabahazmi" target="_blank" alt="Sabah Azmi">Sabah Azmi</a>
 
 ## About Laravel
 
